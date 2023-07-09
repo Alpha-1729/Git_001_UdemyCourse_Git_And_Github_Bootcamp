@@ -1,5 +1,5 @@
 #!/bin/bash
-# <topic>
+# Git Vs Github
 
 :"
 >>>>
