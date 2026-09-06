@@ -1,9 +1,0 @@
-#!/bin/bash
-# Atomic Commits
-
-:"
->>>>
->>>>
->>>>
->>>>
-"
